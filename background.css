@@ -1,0 +1,13 @@
+body{
+    background-color: gainsboro;
+    background-image: url("Gravestone.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    -webkit-backdrop-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: contain;
+    background-size: contain;
+    
+}
+
+
